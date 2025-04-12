@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring data scientist with hands-on experience in machine learning, predictive modeling, and embedded systems. I love solving problems and building tech that makes a difference. My journey in tech began with a passion for robotics and expanded into the world of AI and data science.
+I'm an aspiring data scientist with interests in machine learning, predictive modeling, and embedded systems. I love solving problems and building tech that makes a difference. My journey in tech began with a passion for robotics and expanded into the world of AI and data science.
 
 ---
 
@@ -22,16 +22,6 @@ I'm an aspiring data scientist with hands-on experience in machine learning, pre
 **Developer Tools:** Git, VS Code, PyCharm, Jupyter Notebook, Google Colab  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 **Soft Skills:** Teamwork, Critical Thinking, Communication, Proactive Learning
-
----
-
-## 💼 Experience
-
-**Data Science Intern – Dataplay, Jaipur**  
-_March 2024 – June 2024_
-
-- Built a predictive maintenance model using Python & Scikit-learn, reducing downtime by 25%.
-- Engineered features and cleaned data to improve model accuracy by 18%.
 
 ---
 
